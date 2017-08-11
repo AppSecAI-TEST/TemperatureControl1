@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 55,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 55,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 52,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 52,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 46,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 46,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 46,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 46,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 42,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 42,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 46,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 50,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 50,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 50,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 55,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 55,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 55,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 55,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 58,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 58,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 43,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 43,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 46,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 46,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 59,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 59,
+                        "endOffset": 174
+                    }
+                }
+            }
+        ]
+    }
+]

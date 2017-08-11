@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_button.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\drawable\\refresh_button.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_button_pressed.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\drawable\\refresh_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.xml",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\TemperatureControl\\res\\drawable\\refresh.xml"
+    }
+]
